@@ -1,2 +1,5 @@
 # hello-world
-just another repository 
+
+Hello Class.
+
+Reed here, I love movies. I don't like coffe but I like tea. 
